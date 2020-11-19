@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Projects"
+title: "Photos"
 author_profile: true
-permalink: /projects/
+permalink: /photos/
 header:
   overlay_image: "/assets/images/tahoe2.jpg"
   overlay_filter: 0
